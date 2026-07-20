@@ -1,0 +1,2 @@
+network,instance,algorithm,max_iterations,gap_threshold,final_gap,stopping_status,tstt,sptt,total_demand,vmt,vht,assignment_time_sec,data_dir
+SiouxFalls,net,tapas,1,0.0001,0.11340484318078958,max_iterations_or_solver_stop,8928.278031447158,7915.768061416405,360.6000000000004,3526554.5870000017,148804.6338574526,0.05492377281188965,data/SiouxFalls
